@@ -10,8 +10,6 @@
 - 💻 &nbsp; Apaixonada por estar sempre aprendendo algo novo 💘
 - 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas
 - 👨‍💻 &nbsp; Meu portfólio: https://portfolio-heloisa.vercel.app/
-  
-[![wakatime](https://wakatime.com/badge/user/323956e4-faf4-48d4-aa21-704c00ea22ce.svg?style=for-the-badge)](https://wakatime.com/@323956e4-faf4-48d4-aa21-704c00ea22ce)
 
 ## 🛠 &nbsp;Tech Stack:
 
