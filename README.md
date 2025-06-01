@@ -2,14 +2,14 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=542B79&width=435&lines=Bem-Vindos+ao+meu+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 
-##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;Sobre mim:  </h2>
+##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;About me:  </h2>
 
-- 💻 &nbsp; Apaixonada por estar sempre aprendendo algo novo 💘
-- 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas
-- 👨‍💻 &nbsp; Meu portfólio: https://portfolio-heloisa.vercel.app/
+- 💻 &nbsp; Passionate about always learning something new 💘
+- 🎓 &nbsp; Graduated in Systems Analysis and Development
+- 👨‍💻 &nbsp; My portfolio: https://portfolio-heloisa.vercel.app/
 
 ## 🛠 &nbsp;Tech Stack:
 
@@ -58,7 +58,7 @@
 
 <br>  
   
-## Connect with me:<img src="https://tenor.com/pt-BR/view/cat-meme-memes-handshake-gentleman-gif-2235389675259549968" height="32px"> 
+## Connect with me:
 <p align="center">
 	
 <a href="https://github.com/heloisacst"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
